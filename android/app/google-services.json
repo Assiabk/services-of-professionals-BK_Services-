@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529321501033",
+    "project_id": "myquizapp-2c91b",
+    "storage_bucket": "myquizapp-2c91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529321501033:android:d3d03e5fac3b405fb55df8",
+        "android_client_info": {
+          "package_name": "com.example.my_professionals_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArxAJNbOlbr6UpWFATHv1egW8mFdyYq8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529321501033:android:8d2ddaa89e776aa1b55df8",
+        "android_client_info": {
+          "package_name": "com.example.my_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArxAJNbOlbr6UpWFATHv1egW8mFdyYq8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
